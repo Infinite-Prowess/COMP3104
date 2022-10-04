@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d build",
     "test": "echo \"Warning: No tests created yet.\"",
     "eject": "react-scripts eject"
-  },  
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Infinite-Prowess/COMP3104.git"
@@ -38,5 +38,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {}
 }
