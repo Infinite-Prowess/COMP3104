@@ -2,6 +2,9 @@
   "name": "comp3104",
   "version": "1.0.0",
   "description": "- GitHub Action Script Added",
+  "engines": {
+    "node": "14.x"
+  },
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
